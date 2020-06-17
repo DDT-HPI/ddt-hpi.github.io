@@ -1,1 +1,2 @@
-A website for my favourite character is currently being built here!
+# Repository für Woche 3 des git-Kurses
+
