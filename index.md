@@ -14,5 +14,5 @@ Es prahlt häufig, drückt aber auch schwere Einsamkeit und Feigheit aus.
 
 > What?! I said "AAAAND open," not "AAAAAND close a secondary set of doors"!
 
-![CL4P-TP](https://vignette.wikia.nocookie.net/borderlands/images/c/cd/BL1_Claptrap.jpeg/revision/latest?cb=20190916171641)
+<img src="https://vignette.wikia.nocookie.net/borderlands/images/c/cd/BL1_Claptrap.jpeg/revision/latest?cb=20190916171641"/>
 
