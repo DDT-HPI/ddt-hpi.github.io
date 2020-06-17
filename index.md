@@ -11,6 +11,7 @@ Es prahlt häufig, drückt aber auch schwere Einsamkeit und Feigheit aus.
 * is Hyperion brand
 * has a very annoing voice
 * hates stairs
+* really hates stairs!
 
 > What?! I said "AAAAND open," not "AAAAAND close a secondary set of doors"!
 
