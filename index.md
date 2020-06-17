@@ -7,8 +7,10 @@ Es prahlt häufig, drückt aber auch schwere Einsamkeit und Feigheit aus.
 
 ## Character description
 
-- loves high5
-- is Hyperion brand
-- has a very annoing voice
-- hates stairs
+* loves high5
+* is Hyperion brand
+* has a very annoing voice
+* hates stairs
+
+> What?! I said "AAAAND open," not "AAAAAND close a secondary set of doors"!
 
